@@ -3,9 +3,9 @@ Version:        2.5.27
 Release:        1%{?dist}
 Summary:        Command line interface to libgphoto2
 License:        LGPL
-URL:            http://www.gphoto.org/
+URL:            https://www.gphoto.org/
 
-Source0:        http://github.com/gphoto/%{name}/releases/download/v%{version}/%{name}-%{version}.tar.bz2
+Source0:        https://github.com/gphoto/%{name}/releases/download/v%{version}/%{name}-%{version}.tar.bz2
 
 BuildRequires:  gcc
 BuildRequires:  gcc-c++
